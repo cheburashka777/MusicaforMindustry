@@ -6,6 +6,5 @@
 	"dependencies": [],
 	"version": "2.4",
 	"hidden": false,
-	"minGameVersion": 136,
-	"repo": "deltanedas/unit-factory"
+	"minGameVersion": 136
 }
