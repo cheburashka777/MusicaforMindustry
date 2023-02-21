@@ -4,7 +4,8 @@
 	"displayName": "КАЧОВЫЙ МУЗОН!!!!",
 	"description": "ВОТ ТАК ВОТ!!!",
 	"dependencies": [],
-	"version": "2.4",
+	"version": "2.5",
 	"hidden": false,
-	"minGameVersion": 136
+	"minGameVersion": 136,
+	"repo": "deltanedas/unit-factory"
 }
